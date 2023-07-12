@@ -1,0 +1,50 @@
+C:\Users\B09S105est\Downloads\b_Torneo23\b_Torneo23\b_Torneo23\bin\Debug\netcoreapp3.1\b_Torneo23.deps.json
+C:\Users\B09S105est\Downloads\b_Torneo23\b_Torneo23\b_Torneo23\bin\Debug\netcoreapp3.1\b_Torneo23.dll
+C:\Users\B09S105est\Downloads\b_Torneo23\b_Torneo23\b_Torneo23\bin\Debug\netcoreapp3.1\b_Torneo23.pdb
+C:\Users\B09S105est\Downloads\b_Torneo23\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.csproj.AssemblyReference.cache
+C:\Users\B09S105est\Downloads\b_Torneo23\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\Downloads\b_Torneo23\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.AssemblyInfoInputs.cache
+C:\Users\B09S105est\Downloads\b_Torneo23\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.AssemblyInfo.cs
+C:\Users\B09S105est\Downloads\b_Torneo23\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\Downloads\b_Torneo23\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.dll
+C:\Users\B09S105est\Downloads\b_Torneo23\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.pdb
+C:\Users\B09S116est\Downloads\b_Torneo23\b_Torneo23\b_Torneo23\b_Torneo23\bin\Debug\netcoreapp3.1\b_Torneo23.deps.json
+C:\Users\B09S116est\Downloads\b_Torneo23\b_Torneo23\b_Torneo23\b_Torneo23\bin\Debug\netcoreapp3.1\b_Torneo23.dll
+C:\Users\B09S116est\Downloads\b_Torneo23\b_Torneo23\b_Torneo23\b_Torneo23\bin\Debug\netcoreapp3.1\b_Torneo23.pdb
+C:\Users\B09S116est\Downloads\b_Torneo23\b_Torneo23\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.csproj.AssemblyReference.cache
+C:\Users\B09S116est\Downloads\b_Torneo23\b_Torneo23\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S116est\Downloads\b_Torneo23\b_Torneo23\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.AssemblyInfoInputs.cache
+C:\Users\B09S116est\Downloads\b_Torneo23\b_Torneo23\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.AssemblyInfo.cs
+C:\Users\B09S116est\Downloads\b_Torneo23\b_Torneo23\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.csproj.CoreCompileInputs.cache
+C:\Users\B09S116est\Downloads\b_Torneo23\b_Torneo23\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.dll
+C:\Users\B09S116est\Downloads\b_Torneo23\b_Torneo23\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.pdb
+C:\Users\B09S105est\Documents\b_Torneo23\b_Torneo23\bin\Debug\netcoreapp3.1\b_Torneo23.deps.json
+C:\Users\B09S105est\Documents\b_Torneo23\b_Torneo23\bin\Debug\netcoreapp3.1\b_Torneo23.dll
+C:\Users\B09S105est\Documents\b_Torneo23\b_Torneo23\bin\Debug\netcoreapp3.1\b_Torneo23.pdb
+C:\Users\B09S105est\Documents\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.csproj.AssemblyReference.cache
+C:\Users\B09S105est\Documents\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\Documents\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.AssemblyInfoInputs.cache
+C:\Users\B09S105est\Documents\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.AssemblyInfo.cs
+C:\Users\B09S105est\Documents\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\Documents\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.dll
+C:\Users\B09S105est\Documents\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.pdb
+C:\Users\Cesar\Downloads\b_Torneo23\b_Torneo23\bin\Debug\netcoreapp3.1\b_Torneo23.deps.json
+C:\Users\Cesar\Downloads\b_Torneo23\b_Torneo23\bin\Debug\netcoreapp3.1\b_Torneo23.dll
+C:\Users\Cesar\Downloads\b_Torneo23\b_Torneo23\bin\Debug\netcoreapp3.1\b_Torneo23.pdb
+C:\Users\Cesar\Downloads\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.csproj.AssemblyReference.cache
+C:\Users\Cesar\Downloads\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Downloads\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.AssemblyInfoInputs.cache
+C:\Users\Cesar\Downloads\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.AssemblyInfo.cs
+C:\Users\Cesar\Downloads\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Downloads\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.dll
+C:\Users\Cesar\Downloads\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.pdb
+C:\Users\Johan Choles\Downloads\Torneo\b_Torneo23\b_Torneo23\bin\Debug\netcoreapp3.1\b_Torneo23.deps.json
+C:\Users\Johan Choles\Downloads\Torneo\b_Torneo23\b_Torneo23\bin\Debug\netcoreapp3.1\b_Torneo23.dll
+C:\Users\Johan Choles\Downloads\Torneo\b_Torneo23\b_Torneo23\bin\Debug\netcoreapp3.1\b_Torneo23.pdb
+C:\Users\Johan Choles\Downloads\Torneo\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.csproj.AssemblyReference.cache
+C:\Users\Johan Choles\Downloads\Torneo\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johan Choles\Downloads\Torneo\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.AssemblyInfoInputs.cache
+C:\Users\Johan Choles\Downloads\Torneo\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.AssemblyInfo.cs
+C:\Users\Johan Choles\Downloads\Torneo\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.csproj.CoreCompileInputs.cache
+C:\Users\Johan Choles\Downloads\Torneo\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.dll
+C:\Users\Johan Choles\Downloads\Torneo\b_Torneo23\b_Torneo23\obj\Debug\netcoreapp3.1\b_Torneo23.pdb

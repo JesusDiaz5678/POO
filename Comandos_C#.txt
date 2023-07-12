@@ -1,0 +1,42 @@
+-MOSTRAR EN CONSOLA
+Console.WriteLine("Hello, Ingresa tu nombre \n");
+
+-ESCRIBIR EN CONSOLA
+nombre = Console.ReadLine();
+
+-ALEATORIO
+Random aleatorio = new Random();
+aleatorio.Next(1, 7);
+||
+Console.Write(aleatorio.Next(1,7)+"\n");
+
+
+-Espacios en blanco o Espacios Nulos
+if (value.Length > 6 && !String.IsNullOrWhiteSpace(value)
+                    && !String.IsNullOrEmpty(value))
+
+-Transformar algo a mayuscula
+marca = value.ToUpper();
+
+-Convertir a string
+saldo.ToString()
+saldo.ToString("C2")
+
+
+
+IMPORTANTE
+ public static float porc_comision_giro;
+  private readonly uint monton_max_retiros = 250000;
+
+
+-TRABAJAR UNA POSICION EN ESPECIFICO
+laolimpica.L_cajas[0].Registrar_compra(erik, 60000);
+
+
+
+CONTAR DATOS DE UNA LISTA
+.count
+
+
+VALORES
+internal readonly static float descto_menor = 0.01f;

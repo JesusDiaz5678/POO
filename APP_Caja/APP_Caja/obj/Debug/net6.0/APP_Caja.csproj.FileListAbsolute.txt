@@ -1,0 +1,15 @@
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Caja\APP_Caja\bin\Debug\net6.0\APP_Caja.exe
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Caja\APP_Caja\bin\Debug\net6.0\APP_Caja.deps.json
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Caja\APP_Caja\bin\Debug\net6.0\APP_Caja.runtimeconfig.json
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Caja\APP_Caja\bin\Debug\net6.0\APP_Caja.dll
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Caja\APP_Caja\bin\Debug\net6.0\APP_Caja.pdb
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Caja\APP_Caja\obj\Debug\net6.0\APP_Caja.csproj.AssemblyReference.cache
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Caja\APP_Caja\obj\Debug\net6.0\APP_Caja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Caja\APP_Caja\obj\Debug\net6.0\APP_Caja.AssemblyInfoInputs.cache
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Caja\APP_Caja\obj\Debug\net6.0\APP_Caja.AssemblyInfo.cs
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Caja\APP_Caja\obj\Debug\net6.0\APP_Caja.csproj.CoreCompileInputs.cache
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Caja\APP_Caja\obj\Debug\net6.0\APP_Caja.dll
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Caja\APP_Caja\obj\Debug\net6.0\refint\APP_Caja.dll
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Caja\APP_Caja\obj\Debug\net6.0\APP_Caja.pdb
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Caja\APP_Caja\obj\Debug\net6.0\APP_Caja.genruntimeconfig.cache
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Caja\APP_Caja\obj\Debug\net6.0\ref\APP_Caja.dll

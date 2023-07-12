@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Evt_Notas/1.0.0": {
+        "runtime": {
+          "Evt_Notas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Evt_Notas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

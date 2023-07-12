@@ -1,0 +1,15 @@
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Supermercado\bin\Debug\net6.0\APP_Supermercado.exe
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Supermercado\bin\Debug\net6.0\APP_Supermercado.deps.json
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Supermercado\bin\Debug\net6.0\APP_Supermercado.runtimeconfig.json
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Supermercado\bin\Debug\net6.0\APP_Supermercado.dll
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Supermercado\bin\Debug\net6.0\APP_Supermercado.pdb
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Supermercado\obj\Debug\net6.0\APP_Supermercado.csproj.AssemblyReference.cache
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Supermercado\obj\Debug\net6.0\APP_Supermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Supermercado\obj\Debug\net6.0\APP_Supermercado.AssemblyInfoInputs.cache
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Supermercado\obj\Debug\net6.0\APP_Supermercado.AssemblyInfo.cs
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Supermercado\obj\Debug\net6.0\APP_Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Supermercado\obj\Debug\net6.0\APP_Supermercado.dll
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Supermercado\obj\Debug\net6.0\refint\APP_Supermercado.dll
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Supermercado\obj\Debug\net6.0\APP_Supermercado.pdb
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Supermercado\obj\Debug\net6.0\APP_Supermercado.genruntimeconfig.cache
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\APP_Supermercado\obj\Debug\net6.0\ref\APP_Supermercado.dll

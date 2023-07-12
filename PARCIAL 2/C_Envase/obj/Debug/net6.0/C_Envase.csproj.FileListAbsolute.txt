@@ -1,0 +1,15 @@
+C:\Users\JESUS ALBERTO\Desktop\PARCIAL 2\C_Envase\bin\Debug\net6.0\C_Envase.exe
+C:\Users\JESUS ALBERTO\Desktop\PARCIAL 2\C_Envase\bin\Debug\net6.0\C_Envase.deps.json
+C:\Users\JESUS ALBERTO\Desktop\PARCIAL 2\C_Envase\bin\Debug\net6.0\C_Envase.runtimeconfig.json
+C:\Users\JESUS ALBERTO\Desktop\PARCIAL 2\C_Envase\bin\Debug\net6.0\C_Envase.dll
+C:\Users\JESUS ALBERTO\Desktop\PARCIAL 2\C_Envase\bin\Debug\net6.0\C_Envase.pdb
+C:\Users\JESUS ALBERTO\Desktop\PARCIAL 2\C_Envase\obj\Debug\net6.0\C_Envase.csproj.AssemblyReference.cache
+C:\Users\JESUS ALBERTO\Desktop\PARCIAL 2\C_Envase\obj\Debug\net6.0\C_Envase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS ALBERTO\Desktop\PARCIAL 2\C_Envase\obj\Debug\net6.0\C_Envase.AssemblyInfoInputs.cache
+C:\Users\JESUS ALBERTO\Desktop\PARCIAL 2\C_Envase\obj\Debug\net6.0\C_Envase.AssemblyInfo.cs
+C:\Users\JESUS ALBERTO\Desktop\PARCIAL 2\C_Envase\obj\Debug\net6.0\C_Envase.csproj.CoreCompileInputs.cache
+C:\Users\JESUS ALBERTO\Desktop\PARCIAL 2\C_Envase\obj\Debug\net6.0\C_Envase.dll
+C:\Users\JESUS ALBERTO\Desktop\PARCIAL 2\C_Envase\obj\Debug\net6.0\refint\C_Envase.dll
+C:\Users\JESUS ALBERTO\Desktop\PARCIAL 2\C_Envase\obj\Debug\net6.0\C_Envase.pdb
+C:\Users\JESUS ALBERTO\Desktop\PARCIAL 2\C_Envase\obj\Debug\net6.0\C_Envase.genruntimeconfig.cache
+C:\Users\JESUS ALBERTO\Desktop\PARCIAL 2\C_Envase\obj\Debug\net6.0\ref\C_Envase.dll

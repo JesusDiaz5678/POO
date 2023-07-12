@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "f_Torneo23/1.0.0": {
+        "dependencies": {
+          "b_Torneo23": "1.0.0.0"
+        },
+        "runtime": {
+          "f_Torneo23.dll": {}
+        }
+      },
+      "b_Torneo23/1.0.0.0": {
+        "runtime": {
+          "b_Torneo23.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "f_Torneo23/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "b_Torneo23/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

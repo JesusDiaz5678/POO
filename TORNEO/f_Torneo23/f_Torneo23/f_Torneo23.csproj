@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="b_Torneo23">
+      <HintPath>..\..\..\..\..\..\Users\Johan Choles\Downloads\Torneo\b_Torneo23\b_Torneo23\bin\Debug\netcoreapp3.1\b_Torneo23.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

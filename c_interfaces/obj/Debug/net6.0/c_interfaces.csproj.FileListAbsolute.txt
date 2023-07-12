@@ -1,0 +1,15 @@
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\c_interfaces\bin\Debug\net6.0\c_interfaces.exe
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\c_interfaces\bin\Debug\net6.0\c_interfaces.deps.json
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\c_interfaces\bin\Debug\net6.0\c_interfaces.runtimeconfig.json
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\c_interfaces\bin\Debug\net6.0\c_interfaces.dll
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\c_interfaces\bin\Debug\net6.0\c_interfaces.pdb
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\c_interfaces\obj\Debug\net6.0\c_interfaces.csproj.AssemblyReference.cache
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\c_interfaces\obj\Debug\net6.0\c_interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\c_interfaces\obj\Debug\net6.0\c_interfaces.AssemblyInfoInputs.cache
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\c_interfaces\obj\Debug\net6.0\c_interfaces.AssemblyInfo.cs
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\c_interfaces\obj\Debug\net6.0\c_interfaces.csproj.CoreCompileInputs.cache
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\c_interfaces\obj\Debug\net6.0\c_interfaces.dll
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\c_interfaces\obj\Debug\net6.0\refint\c_interfaces.dll
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\c_interfaces\obj\Debug\net6.0\c_interfaces.pdb
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\c_interfaces\obj\Debug\net6.0\c_interfaces.genruntimeconfig.cache
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\c_interfaces\obj\Debug\net6.0\ref\c_interfaces.dll

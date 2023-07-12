@@ -1,0 +1,15 @@
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\Evt_Notas\obj\Debug\net6.0\Evt_Notas.csproj.AssemblyReference.cache
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\Evt_Notas\obj\Debug\net6.0\Evt_Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\Evt_Notas\obj\Debug\net6.0\Evt_Notas.AssemblyInfoInputs.cache
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\Evt_Notas\obj\Debug\net6.0\Evt_Notas.AssemblyInfo.cs
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\Evt_Notas\obj\Debug\net6.0\Evt_Notas.csproj.CoreCompileInputs.cache
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\Evt_Notas\bin\Debug\net6.0\Evt_Notas.exe
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\Evt_Notas\bin\Debug\net6.0\Evt_Notas.deps.json
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\Evt_Notas\bin\Debug\net6.0\Evt_Notas.runtimeconfig.json
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\Evt_Notas\bin\Debug\net6.0\Evt_Notas.dll
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\Evt_Notas\bin\Debug\net6.0\Evt_Notas.pdb
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\Evt_Notas\obj\Debug\net6.0\Evt_Notas.dll
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\Evt_Notas\obj\Debug\net6.0\refint\Evt_Notas.dll
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\Evt_Notas\obj\Debug\net6.0\Evt_Notas.pdb
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\Evt_Notas\obj\Debug\net6.0\Evt_Notas.genruntimeconfig.cache
+C:\Users\JESUS ALBERTO\Desktop\UNIVERSIDAD\PROGRAMACION Y DISEÑO ORIENTADO\Evt_Notas\obj\Debug\net6.0\ref\Evt_Notas.dll
