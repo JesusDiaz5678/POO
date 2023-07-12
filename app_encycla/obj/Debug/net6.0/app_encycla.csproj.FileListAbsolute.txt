@@ -1,0 +1,15 @@
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\app_encycla\bin\Debug\net6.0\app_encycla.exe
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\app_encycla\bin\Debug\net6.0\app_encycla.deps.json
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\app_encycla\bin\Debug\net6.0\app_encycla.runtimeconfig.json
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\app_encycla\bin\Debug\net6.0\app_encycla.dll
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\app_encycla\bin\Debug\net6.0\app_encycla.pdb
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\app_encycla\obj\Debug\net6.0\app_encycla.csproj.AssemblyReference.cache
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\app_encycla\obj\Debug\net6.0\app_encycla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\app_encycla\obj\Debug\net6.0\app_encycla.AssemblyInfoInputs.cache
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\app_encycla\obj\Debug\net6.0\app_encycla.AssemblyInfo.cs
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\app_encycla\obj\Debug\net6.0\app_encycla.csproj.CoreCompileInputs.cache
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\app_encycla\obj\Debug\net6.0\app_encycla.dll
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\app_encycla\obj\Debug\net6.0\refint\app_encycla.dll
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\app_encycla\obj\Debug\net6.0\app_encycla.pdb
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\app_encycla\obj\Debug\net6.0\app_encycla.genruntimeconfig.cache
+C:\Users\JESUS ALBERTO\Desktop\PRACTICAS\poo\app_encycla\obj\Debug\net6.0\ref\app_encycla.dll
